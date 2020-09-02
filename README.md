@@ -4,7 +4,11 @@ Challenge Link : [Leetcode](https://leetcode.com/explore/challenge/card/septembe
 
 ## WEEK 1 🚧
 
-[Coming soon](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
+Q. [Read N Characters Given Read4](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3444/) 🔏 ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK1/ReadNCharactersRead4.java)
+
+Q. [Largest Time for Given Digits](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3445/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK1/LargestTimeforGivenDigits.java)
+
+Q. [Contains Duplicate III](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3446/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK1/ContainsDuplicateIII.java)
 
 ## WEEK 2 🚧
 
