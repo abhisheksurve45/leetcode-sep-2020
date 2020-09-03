@@ -10,6 +10,8 @@ Q. [Largest Time for Given Digits](https://leetcode.com/explore/challenge/card/s
 
 Q. [Contains Duplicate III](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3446/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK1/ContainsDuplicateIII.java)
 
+Q. [Repeated Substring Pattern](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3447/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK1/RepeatedSubstringPattern.java)
+
 ## WEEK 2 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
