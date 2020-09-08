@@ -22,7 +22,9 @@ Q. [Word Pattern](https://leetcode.com/explore/challenge/card/september-leetcodi
 
 ## WEEK 2 🚧
 
-[Coming soon](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
+Q. [Moving Average from Data Stream](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3452/) 🔏 ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK2/MovingAveragefromDataStream.java)
+
+Q. [Sum of Root To Leaf Binary Numbers](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3453/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK2/SumofRootToLeafBinaryNumbers.java)
 
 ## WEEK 3 🚧
 
