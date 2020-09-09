@@ -26,6 +26,8 @@ Q. [Moving Average from Data Stream](https://leetcode.com/explore/challenge/card
 
 Q. [Sum of Root To Leaf Binary Numbers](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3453/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK2/SumofRootToLeafBinaryNumbers.java)
 
+Q. [Compare Version Numbers](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3454/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK2/CompareVersionNumbers.java)
+
 ## WEEK 3 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
