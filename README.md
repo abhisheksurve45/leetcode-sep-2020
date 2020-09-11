@@ -30,6 +30,8 @@ Q. [Compare Version Numbers](https://leetcode.com/explore/challenge/card/septemb
 
 Q. [Bulls and Cows](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3455/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK2/BullsCows.java)
 
+Q. [Maximum Product Subarray](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3456/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK2/MaximumProductSubarray.java)
+
 ## WEEK 3 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
