@@ -2,7 +2,7 @@
 
 Challenge Link : [Leetcode](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
 
-## WEEK 1 🚧
+## WEEK 1 ✅
 
 Q. [Read N Characters Given Read4](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3444/) 🔏 ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK1/ReadNCharactersRead4.java)
 
@@ -20,7 +20,7 @@ Q. [Image Overlap](https://leetcode.com/explore/challenge/card/september-leetcod
 
 Q. [Word Pattern](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3451/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK1/WordPattern.java)
 
-## WEEK 2 🚧
+## WEEK 2 ✅
 
 Q. [Moving Average from Data Stream](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3452/) 🔏 ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK2/MovingAveragefromDataStream.java)
 
@@ -38,7 +38,7 @@ Q. [Insert Interval](https://leetcode.com/explore/challenge/card/september-leetc
 
 Q. [House Robber](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3459/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK2/HouseRobber.java)
 
-## WEEK 3 
+## WEEK 3 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
 
