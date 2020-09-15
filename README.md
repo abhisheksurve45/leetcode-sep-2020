@@ -40,7 +40,9 @@ Q. [House Robber](https://leetcode.com/explore/challenge/card/september-leetcodi
 
 ## WEEK 3 🚧
 
-[Coming soon](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
+Q. [Inorder Successor in BST II](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3460/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK3/InorderSuccessorBSTII.java)
+
+Q. [Length of Last Word](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3461/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK3/LengthofLastWord.java)
 
 ## WEEK 4 🚧
 
