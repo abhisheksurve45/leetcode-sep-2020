@@ -54,6 +54,8 @@ Q. [Sequential Digits](https://leetcode.com/explore/challenge/card/september-lee
 
 Q. [Unique Paths III](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3466/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK3/UniquePathsIII.java)
 
+Q. [Car Pooling](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3467/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK3/CarPooling.java)
+
 ## WEEK 4 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
