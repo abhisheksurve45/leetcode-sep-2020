@@ -58,7 +58,9 @@ Q. [Car Pooling](https://leetcode.com/explore/challenge/card/september-leetcodin
 
 ## WEEK 4 🚧
 
-[Coming soon](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
+Q. [Insert into a Sorted Circular Linked List](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3468/) 🔏 ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK4/InsertintoSortedCircularLinkedList.java)
+
+Q. [Majority Element II](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3469/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK4/MajorityElementII.java)
 
 ## WEEK 5 🚧
 
