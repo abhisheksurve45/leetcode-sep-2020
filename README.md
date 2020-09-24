@@ -38,7 +38,7 @@ Q. [Insert Interval](https://leetcode.com/explore/challenge/card/september-leetc
 
 Q. [House Robber](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/555/week-2-september-8th-september-14th/3459/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK2/HouseRobber.java)
 
-## WEEK 3 🚧
+## WEEK 3 ✅
 
 Q. [Inorder Successor in BST II](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/556/week-3-september-15th-september-21st/3460/) 🔏 ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK3/InorderSuccessorBSTII.java)
 
@@ -61,6 +61,10 @@ Q. [Car Pooling](https://leetcode.com/explore/challenge/card/september-leetcodin
 Q. [Insert into a Sorted Circular Linked List](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3468/) 🔏 ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK4/InsertintoSortedCircularLinkedList.java)
 
 Q. [Majority Element II](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3469/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK4/MajorityElementII.java)
+
+Q. [Gas Station](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3470/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK4/GasStation.java)
+
+Q. [Find the Difference](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3471/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK4/FindtheDifference.java)
 
 ## WEEK 5 🚧
 
