@@ -70,6 +70,8 @@ Q. [Largest Number](https://leetcode.com/explore/challenge/card/september-leetco
 
 Q. [Teemo Attacking](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3473/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK4/TeemoAttacking.java)
 
+Q. [Evaluate Division](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3474/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK4/EvaluateDivision.java)
+
 ## WEEK 5 🚧
 
 [Coming soon](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
