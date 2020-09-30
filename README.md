@@ -74,10 +74,13 @@ Q. [Evaluate Division](https://leetcode.com/explore/challenge/card/september-lee
 
 Q. [Subarray Product Less Than K](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/557/week-4-september-22nd-september-28th/3475/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK4/SubarrayProductLessThanK.java)
 
-## WEEK 5 🚧
+## WEEK 5 ✅
 
-[Coming soon](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
+Q. [Word Squares](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/558/week-5-september-29th-september-30th/3476/) 🔏 ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK5/WordSquares.java)
 
+Q. [Word Break](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/558/week-5-september-29th-september-30th/3477/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK5/WordBreak.java)
+
+Q. [First Missing Positive](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/558/week-5-september-29th-september-30th/3478/) ➡️ [Solution](https://github.com/abhisheksurve45/leetcode-sep-2020/blob/master/WEEK5/FirstMissingPositive.java)
 
 ### Legends 
 
